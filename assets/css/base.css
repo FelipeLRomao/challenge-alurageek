@@ -1,0 +1,22 @@
+/* Reset CSS */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+/* Variáveis Cores */
+
+:root{
+    --bg-color: #fff;
+    --input-busca-bg: #f5f5f5;
+    --input-placeholder: #a2a2a2;
+    --produtos-bg: #e5e5e5;
+    --texto-azul: #2a7ae4;
+    --text-branco: #fff;
+    --texto-preto: #464646;
+    --bg-contato: #eaf2fd;
+
+}
